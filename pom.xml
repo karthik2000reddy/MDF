@@ -54,11 +54,7 @@
             <version>2.20.1</version>
         </dependency>
         
-        <dependency>
-    <groupId>Seleniumwebdriver</groupId>
-    <artifactId>Seleniumwebdriver</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-</dependency>
+        
 
 
         <!-- Selenium Java Dependency -->
